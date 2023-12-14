@@ -4,7 +4,6 @@ import java.util.*;
 public class Main {
     private static int L, N;
     private static char[] S;
-    private static ArrayList<Integer> buffer = new ArrayList<>();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
